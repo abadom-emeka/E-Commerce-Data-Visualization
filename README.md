@@ -9,4 +9,9 @@ Data obtained in csv format from Kaggle website https://www.kaggle.com/carrie1/e
 4.  Data Timeframe - One year (1st Dec, 2010 to 9th Dec, 2011)
 
 ### Project Summary
-This project uses python libraries pandas and matplotlib within the Jupyter notebook environment for data cleaning and visualization.
+This project uses python libraries pandas, numpy, seaborn and matplotlib within the 
+Jupyter notebook environment for data cleaning and visualization.
+Missing values found in dataset was removed for better analysis.
+
+### Analysis Findings 
+1.  No sales data was recorded for Saturday throughout the whole year.
