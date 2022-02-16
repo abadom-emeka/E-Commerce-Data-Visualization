@@ -15,3 +15,10 @@ Missing values found in dataset was removed for better analysis.
 
 ### Analysis Findings 
 1.  No sales data was recorded for Saturday throughout the whole year.
+2.  The top 5 selling products are
+    ######  PAPER CRAFT , LITTLE BIRDIE
+    ######  MEDIUM CERAMIC TOP STORAGE JAR
+    ######  WORLD WAR 2 GLIDERS ASSTD DESIGNS
+    ######  JUMBO BAG RED RETROSPOT
+    ######  WHITE HANGING HEART T-LIGHT HOLDER
+3.  Top 5 Customers with the most orders are
