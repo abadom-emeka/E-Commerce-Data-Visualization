@@ -47,3 +47,15 @@ Missing values found in dataset was removed for better analysis.
 
 ![orders without uk](https://user-images.githubusercontent.com/65644821/154655848-86c741b3-245b-4006-867e-bcba54446ab6.png)
 
+8. Observed rise in sales from September to November, with November recording the highest amount of orders in the year. This is possibly as a result of preparation of gifts sharing during the festive periods.
+
+![order by month](https://user-images.githubusercontent.com/65644821/154656734-58a67043-c34f-4419-b97b-1bd5f588f98a.png)
+
+9. Most orders are made on Thursday.
+
+![order by days of the week](https://user-images.githubusercontent.com/65644821/154656770-b6655717-7bb6-4c2c-951f-07e3c53a556b.png)
+
+10. Most of the orders are done by midday with the numbers of orders peaking at 12pm
+
+![order by hour](https://user-images.githubusercontent.com/65644821/154656785-d47c289f-c141-456e-98db-a71554ca5dc0.png)
+
