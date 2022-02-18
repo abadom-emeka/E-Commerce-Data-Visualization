@@ -34,3 +34,16 @@ Missing values found in dataset was removed for better analysis.
 ![revenue pie chart](https://user-images.githubusercontent.com/65644821/154654631-8c182e83-4244-45dc-88b6-84e51b3494b0.png)
 
 ![order pie chart](https://user-images.githubusercontent.com/65644821/154654654-c0923a45-2bdd-4bff-9f91-22a8bb191260.png)
+
+6. Top 5 Countries in Revenue Sales include United Kingdom, Netherlands , Ireland, Germany, France.
+
+![Revenue with UK](https://user-images.githubusercontent.com/65644821/154655258-a8953867-0fab-4f61-b8f2-2166f4e9060a.png)
+
+![Revenue without UK](https://user-images.githubusercontent.com/65644821/154655291-c33ee83f-81a8-473d-bec8-89c41c853e98.png)
+
+7. Top 5 Countries in most quantity of Products orderered are United Kingdom, Netherlands , Ireland, Germany, France, Ireland, Spain
+
+![orders with uk](https://user-images.githubusercontent.com/65644821/154655838-f1474603-8596-4e53-a870-2e57cd9c11bd.png)
+
+![orders without uk](https://user-images.githubusercontent.com/65644821/154655848-86c741b3-245b-4006-867e-bcba54446ab6.png)
+
