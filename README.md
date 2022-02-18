@@ -30,32 +30,12 @@ Missing values found in dataset was removed for better analysis.
 
 5.  United Kingdom accounts for 82% of Revenue sales and 89% of orders for the year.
 
-
-![revenue pie chart](https://user-images.githubusercontent.com/65644821/154654631-8c182e83-4244-45dc-88b6-84e51b3494b0.png)
-
-![order pie chart](https://user-images.githubusercontent.com/65644821/154654654-c0923a45-2bdd-4bff-9f91-22a8bb191260.png)
-
 6. Top 5 Countries in Revenue Sales include United Kingdom, Netherlands , Ireland, Germany, France.
-
-![Revenue with UK](https://user-images.githubusercontent.com/65644821/154655258-a8953867-0fab-4f61-b8f2-2166f4e9060a.png)
-
-![Revenue without UK](https://user-images.githubusercontent.com/65644821/154655291-c33ee83f-81a8-473d-bec8-89c41c853e98.png)
 
 7. Top 5 Countries in most quantity of Products orderered are United Kingdom, Netherlands , Ireland, Germany, France, Ireland, Spain
 
-![orders with uk](https://user-images.githubusercontent.com/65644821/154655838-f1474603-8596-4e53-a870-2e57cd9c11bd.png)
-
-![orders without uk](https://user-images.githubusercontent.com/65644821/154655848-86c741b3-245b-4006-867e-bcba54446ab6.png)
-
 8. Observed rise in sales from September to November, with November recording the highest amount of orders in the year. This is possibly as a result of preparation of gifts sharing during the festive periods.
-
-![order by month](https://user-images.githubusercontent.com/65644821/154656734-58a67043-c34f-4419-b97b-1bd5f588f98a.png)
 
 9. Most orders are made on Thursday.
 
-![order by days of the week](https://user-images.githubusercontent.com/65644821/154656770-b6655717-7bb6-4c2c-951f-07e3c53a556b.png)
-
 10. Most of the orders are done by midday with the numbers of orders peaking at 12pm
-
-![order by hour](https://user-images.githubusercontent.com/65644821/154656785-d47c289f-c141-456e-98db-a71554ca5dc0.png)
-
